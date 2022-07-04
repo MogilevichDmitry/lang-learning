@@ -9,6 +9,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Lang-learning - Обучалка" />
       </Head>
       <div>INDEX PAGE</div>
+      <h1>test ssh sd</h1>
     </>
   );
 };
